@@ -1,6 +1,7 @@
 # pi-window
 Use a Raspberry Pi and a cheap/old screen to make a fake window for your depressing windowless office!
 
+See the Wiki page for more info on my build process: <https://github.com/bpettis/pi-window/wiki>
 
 ## Known Issues / Future To-Dos
 
